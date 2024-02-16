@@ -1,0 +1,11 @@
+.main {
+  font-family: Arial, sans-serif;
+  background-color: #89abab;
+  padding: 1rem;
+  margin: 2rem auto;
+  width:50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25);
+}
